@@ -1,3 +1,11 @@
+---
+name: company-analysis
+description: 기업의 사업 구조, 재무, 경쟁환경, SWOT, 전략적 시사점을 분석하여 마크다운 보고서를 자동 생성
+type: analysis
+user-invocable: true
+allowed-tools: Bash, Read, Write, AskUserQuestion, mcp__brave-search__brave_web_search, mcp__brave-search__brave_news_search, mcp__dart-mcp__get_corp_code, mcp__dart-mcp__get_financial_statement, mcp__dart-mcp__get_disclosure_list, mcp__dart-mcp__get_stock_base_info
+---
+
 # 기업 분석 (Company Analysis)
 
 기업의 사업 구조, 재무, 경쟁환경, SWOT, 전략적 시사점을 분석하여 마크다운 보고서를 자동 생성한다.
