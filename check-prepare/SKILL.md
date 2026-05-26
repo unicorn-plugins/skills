@@ -146,8 +146,6 @@ Phase 0에서 분석한 전체 항목을 기준으로 아래 형식으로 결과
 |---------|------------|
 | {미설치 항목} | [로컬 개발 환경 구성](https://github.com/unicorn-plugins/npd/blob/main/resources/guides/setup/prepare.md) |
 
-### 다음 단계
-모든 설치가 완료되면 `/npd:create`로 프로젝트 생성을 시작하세요.
 ```
 
 ---
